@@ -1,0 +1,59 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.card {
+    background: white;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    width: 260px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    background: #2575fc;
+    color: white;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #6a11cb;
+}
+
+.bar {
+    width: 100%;
+    height: 20px;
+    background: #ddd;
+    border-radius: 20px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+#progress {
+    height: 100%;
+    width: 0%;
+    background: green;
+    border-radius: 20px;
+    transition: width 0.3s ease;
+}
+
+.loading {
+    margin-top: 10px;
+    font-size: 14px;
+    color: gray;
+}
