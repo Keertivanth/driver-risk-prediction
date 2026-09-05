@@ -1,0 +1,7 @@
+Parameter,Best_Value
+model__subsample,1.0
+model__n_estimators,100.0
+model__min_samples_split,2.0
+model__min_samples_leaf,2.0
+model__max_depth,2.0
+model__learning_rate,0.1

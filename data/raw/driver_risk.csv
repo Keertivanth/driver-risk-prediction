@@ -1,0 +1,124 @@
+Weather	Road_Type	Time_of_Day	Traffic_Density	Speed_Limit	Number_of_Vehicles	Driver_Alcohol	Accident_Severity	Road_Condition	Vehicle_Type	Driver_Age	Driver_Experience	Road_Light_Condition	Accident
+Rainy	City Road	Morning	1	100	5	0		Wet	Car	51	48	Artificial Light	0
+Clear	Rural Road	Night		120	3	0	Moderate	Wet	Truck	49	43	Artificial Light	0
+Rainy	Highway	Evening	1	60	4	0	Low	Icy	Car	54	52	Artificial Light	0
+Clear	City Road	Afternoon	2	60	3	0	Low	Under Construction	Bus	34	31	Daylight	0
+Rainy	Highway	Morning	1	195	11	0	Low	Dry	Car	62	55	Artificial Light	1
+Clear	Rural Road	Night	0	120	3	0	Moderate		Truck	49	43	Artificial Light	0
+Foggy	Highway	Afternoon	0	60	4	0	Low	Dry	Truck	27	26	Daylight	1
+Rainy	City Road	Afternoon	0	60	4	0	Low	Dry	Car	29	22	Artificial Light	1
+Stormy	Highway	Morning	1	60	2	0	High	Icy	Car	38	29	Artificial Light	0
+Rainy	City Road	Afternoon	2	30	2	0	Low	Dry	Truck	50	48	Artificial Light	0
+Foggy		Evening		60	2	0	Moderate	Dry	Car	33	28	Artificial Light	
+Clear	Mountain Road	Night	2	100	5	0	Low	Dry	Motorcycle	47	38	Artificial Light	1
+	Rural Road	Afternoon	0	60	4	0		Dry	Car	25	16	Artificial Light	0
+Rainy	City Road	Night	0	30	1	1	Moderate		Motorcycle	67	63	Artificial Light	1
+Clear	Rural Road	Morning	0		1	0	Low		Car	61	57	Artificial Light	0
+Clear	Rural Road	Night	0	60	5	0	Low	Wet	Truck	46		Artificial Light	0
+Rainy	City Road		0	60	5	0	Moderate	Wet	Car	48	41	Daylight	0
+Snowy		Afternoon	1	100	3	0		Under Construction	Motorcycle	53		Artificial Light	0
+Foggy	City Road	Night	1	60	3	0	Moderate	Wet	Motorcycle	35	32	No Light	0
+Clear	City Road	Afternoon	1	50	1	0	Moderate	Dry	Car	59	53	Daylight	1
+Clear	City Road	Morning	2	60	2	0	Low	Dry	Car	27	23	Daylight	0
+Foggy	Rural Road	Evening	0	100	5	0	Moderate	Icy	Car	32	24		0
+Clear	Highway	Morning	0	30	1	0	Low	Dry	Car	53	47	Daylight	0
+Rainy	Rural Road	Afternoon	0	30	4	1	Low	Under Construction		69	64	Daylight	0
+Rainy	Highway	Morning	1	50	3	0	Low		Car	68	60	Daylight	1
+Rainy	Highway	Afternoon	0	100	3	0	High	Wet	Car	28	25	Artificial Light	0
+Foggy	Rural Road	Morning	1	60	2	1	Moderate	Under Construction	Car	40	38	Artificial Light	1
+	City Road	Evening	0	100	2	0	Low	Dry	Car	30	23	Artificial Light	0
+Stormy		Afternoon	2	80	3	0	Moderate	Under Construction	Truck	60	57	Daylight	1
+Clear	City Road	Afternoon	1	80		0	Moderate	Under Construction		66	65	Artificial Light	0
+Rainy	Highway	Morning	1	80	1	0	Low	Dry	Car		24	No Light	0
+	Highway	Afternoon	1	30	5	0	Moderate	Dry	Car	63	55	Artificial Light	1
+Foggy	Highway	Night	0	100	1	0	Low	Under Construction	Car	59	57	Artificial Light	0
+Clear	Highway	Morning	1	60	3	0	Low	Icy	Car	65	57	Artificial Light	1
+Rainy	Mountain Road	Afternoon	1	60	1	0	Low	Dry	Car	18	13	No Light	0
+Stormy	Highway	Morning	1		5		Moderate	Dry	Car	33	31	Daylight	0
+Clear	City Road	Evening	2	50	5	1	Low	Dry	Car	55	52		0
+Rainy	Highway	Evening	0	120	5	0	High	Dry	Car	38		Artificial Light	0
+Clear	Highway	Morning	2	100	5	0	Low	Under Construction	Car	46		Daylight	1
+Clear	City Road	Night	0		4	0	High	Icy	Car	33	25	Artificial Light	1
+Rainy		Night	1	50	5	0	Low	Under Construction	Truck	45	36	Daylight	1
+Clear	Highway	Morning	0	60	5	0	Low	Under Construction	Car	40	37	Artificial Light	0
+Foggy	Highway	Night	0	60	5	0	Low	Dry	Car	69	63	Daylight	0
+Snowy		Evening	2	50	5	1	Moderate	Dry	Car	33	32	Artificial Light	0
+Foggy	Highway	Evening	0	60	1	1	Low	Wet	Car	22	21	Daylight	0
+Rainy	Mountain Road	Afternoon	0	60	5	1	High	Dry	Bus	26	25	Daylight	0
+Clear	Highway	Night	1	30	1	0	Low	Wet	Car	59	54	Artificial Light	0
+Clear	Highway	Night	1	30	1	1	Moderate	Dry	Car	58		Daylight	1
+Clear	City Road	Afternoon	1	60	5	0	Low	Dry	Truck	23	14	Daylight	0
+Clear	Highway	Evening	0	50	2	1	Low	Dry	Truck			Artificial Light	0
+Rainy	City Road	Morning	0	60	4	1	Low	Dry	Car		48	Artificial Light	0
+Clear	Highway	Evening	0	80	5	0	Moderate	Wet	Car	57	55	Daylight	1
+Clear	Highway	Morning	0	60	4	0	Low	Dry	Car	26	25	Artificial Light	0
+Clear	Highway		2	60	5	0	Low	Dry	Truck	34	25	Artificial Light	1
+Snowy	City Road	Morning	2	80	1	0	Low	Wet	Truck	27	19		0
+Rainy	City Road	Afternoon	2	100	3	0	Low	Dry	Car	57	49		0
+Foggy	Highway	Afternoon	1	50	5	0	Low	Icy	Car	43	39	Artificial Light	1
+Rainy	Mountain Road	Evening	0	50	4		Low	Wet	Car	41	41	Daylight	
+Rainy	Highway	Afternoon	0	100	4	1	Moderate	Dry	Car	23	16	Artificial Light	0
+Foggy	Highway	Evening	2	100	5	1	Low	Dry	Car	64	55	Daylight	1
+Clear	Highway	Morning	0		5	0	Moderate	Wet	Car	45	41	Artificial Light	0
+Rainy		Evening	1	50	2	0	Moderate	Under Construction	Car	67	58	No Light	0
+Rainy	City Road	Afternoon	1	200	12		Moderate	Icy	Car	54	53	Artificial Light	0
+Clear	Highway	Evening	2	120	5		Low	Under Construction	Car	42	39	No Light	0
+Clear	City Road	Morning	2	50	1	0	Low	Dry	Car	67	66	Artificial Light	0
+Clear	Highway	Afternoon	1	80	3	1	Low	Dry	Car	56	48	No Light	0
+Foggy	Rural Road	Morning	0	80	4	0	Low	Dry	Motorcycle	40	32	Daylight	0
+Rainy	Highway	Night	1	30	1	0	Low	Dry	Car	54	54	Daylight	0
+Clear	Highway	Afternoon	2	80	3	0	Low	Dry	Car	52	43	Artificial Light	0
+Clear	Highway	Evening	2		4	0	Moderate	Wet	Car	44	37	Daylight	0
+	Mountain Road	Evening		206	13	0	Low	Icy	Motorcycle	20	17		0
+Foggy	Highway	Evening	2	30	5	0	High	Wet	Car	35	26	Artificial Light	1
+Rainy	Highway	Afternoon	0	120	3		Moderate	Dry	Truck		39	Artificial Light	1
+Clear	City Road	Evening	1	80	3	0	Moderate	Icy	Car	35	31		0
+Snowy	Highway	Morning	2	60	4	0	Low	Wet	Car	50	43	Daylight	1
+Rainy	Highway	Afternoon	0	60	4	0	Low	Under Construction	Car	65	60	Daylight	0
+Clear	Highway	Afternoon	1	50	3	0	Moderate		Motorcycle	41	38	Daylight	1
+Rainy	Rural Road	Afternoon	0	60	2	0	Moderate	Under Construction	Car	59	53	Daylight	0
+Clear	Highway	Morning	2	50	3	0	Low	Icy	Car	24	21	Artificial Light	0
+	Highway	Night	1	30		0	Low	Wet	Car	59	54	Artificial Light	0
+	Highway	Evening	0	30	5	0	Moderate	Dry	Car	65	59	Daylight	1
+Clear	Highway	Afternoon	2	80	2		Low	Wet	Car	19	19	Daylight	0
+Rainy	Highway	Evening	0	100	2	0	Low	Icy	Truck	37	29	Daylight	1
+Rainy	Highway	Afternoon	0	60	2	0	Low	Dry	Car	26	23	Artificial Light	0
+Rainy	City Road	Afternoon	0	80	4	0	High		Car	22		Artificial Light	0
+Foggy	Rural Road	Morning	0	30	3	0	High	Dry	Car	42	42	Artificial Light	0
+Clear	Highway	Evening	0	80	2	0	Low	Icy	Car	69	64	Artificial Light	1
+Snowy	Highway	Night	2	50	4	0	High	Dry	Bus	21	14	Daylight	0
+Clear	Highway	Evening	2	60	5	1	Moderate	Icy	Car	68	65	Artificial Light	0
+Clear	City Road	Night	2	80	1	0	Low	Dry	Car	55	46	No Light	0
+Clear	City Road	Afternoon	2	60	4	0	High	Wet		41	41	Artificial Light	1
+Clear	Highway	Evening	0		2	1	Moderate	Dry	Truck	39	37	Artificial Light	1
+Foggy	Mountain Road	Evening	2	50	2	0	High	Icy	Truck	21	18	No Light	0
+Clear	Mountain Road	Afternoon	0	60	1	0	Low	Dry	Bus	65	57	Artificial Light	0
+Snowy	Mountain Road	Morning	0	50	4	0	Low	Icy	Car	55	52	No Light	0
+Clear	Mountain Road	Afternoon	1	100	2	0	Low	Dry		28	26	Artificial Light	1
+Snowy	Highway	Afternoon	2	50	5	0	Low	Under Construction	Motorcycle	30	21	Artificial Light	0
+Clear	Highway	Night	2	60	2	1	Low	Dry	Bus	65	57	Artificial Light	1
+Rainy	Highway	Afternoon	2	80	3	1	Low	Dry	Motorcycle	62	60	Daylight	1
+Clear	Highway	Afternoon	1	50	3	0	Moderate	Dry	Car	24	22	Artificial Light	0
+Foggy	City Road	Morning	1	30	4	0		Icy	Car	68	61	Daylight	0
+Clear	City Road	Evening	1	80	2	0	Low	Dry		19	13	Artificial Light	0
+Rainy	City Road	Afternoon	1	30	5	1	Moderate	Icy	Car	54	53	Artificial Light	0
+Rainy	City Road	Afternoon	1	178	12	0	Moderate	Wet	Car	67	59	Daylight	1
+Rainy	Highway	Afternoon	0	60	1	0	Low	Under Construction	Car	34	30	Daylight	0
+Foggy	Highway	Morning	1	100	2	1	Low	Dry		61	60	No Light	
+Clear	City Road	Afternoon	1	100	5	0	Moderate	Icy	Car	34	26	Artificial Light	0
+Rainy	Highway	Morning	1	60	5	0	Moderate	Under Construction	Car	25		Artificial Light	1
+Rainy	Highway	Evening	2	60	2	1	Low	Under Construction	Car		38	Artificial Light	1
+Clear	City Road	Morning	1	120	1	0	Moderate	Wet	Car	65	58	Artificial Light	
+Rainy	City Road	Afternoon	1	60	2	0	High	Dry	Motorcycle	21	19	Daylight	0
+Snowy	Rural Road	Afternoon	1	60	1	0	High	Dry	Car	43	42	Artificial Light	1
+Rainy		Morning	2	30	2	0	Low	Icy	Car	52	51	Daylight	0
+Snowy	Rural Road	Evening	1	50	5	0	Low	Wet	Motorcycle	64	56	No Light	0
+Foggy	City Road	Morning	0	100	1	0	Low	Dry	Truck	34	34	Artificial Light	
+Clear	Rural Road	Afternoon	1	60	1	0	Low	Icy	Car	60	56	Daylight	0
+Clear	City Road	Morning	0	80	1	0	Low	Wet	Motorcycle	50	42	No Light	0
+Rainy	Mountain Road	Afternoon	1	60	1	0	Low	Dry	Car	18		No Light	0
+Clear	Rural Road	Morning	2	60	2		Moderate	Dry	Car		10	Daylight	1
+Rainy	Rural Road	Morning	1	60	4		Low	Dry	Car	33	30	No Light	0
+Foggy	City Road	Afternoon	1	80	5	0		Wet	Car	34		Artificial Light	0
+Rainy	Highway	Evening	0	60	3	0	Low	Icy	Car		13	Artificial Light	0
+Clear	City Road	Morning	1	60	3	0	Low	Wet	Car	32	27	Daylight	0
