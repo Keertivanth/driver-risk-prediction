@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Driver Risk Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h1>🚗 Driver Risk Prediction Dashboard</h1>
+
+<div class="container">
+
+    <!-- Upload -->
+    <div class="card">
+        <h2>📁 Upload CSV</h2>
+        <input type="file" id="fileInput">
+        <br><br>
+        <button onclick="uploadFile()">Predict</button>
+        <p id="uploadStatus"></p>
+    </div>
+
+    <!-- Sample -->
+    <div class="card">
+        <h2>🧪 Test Sample</h2>
+        <button onclick="useSample()">Use Sample Data</button>
+    </div>
+
+    <!-- Result -->
+    <div class="card">
+        <h2>📊 Result</h2>
+
+        <p id="type">Driving Type: -</p>
+        <p id="risk">Risk Score: -</p>
+
+        <div class="bar">
+            <div id="progress"></div>
+        </div>
+
+        <p id="status" class="loading"></p>
+    </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
